@@ -58,8 +58,9 @@ const AboutSection = () => {
               </span>{" "}
               and that&#39;s what I strive to do. I am really passionate about
               technology and constantly want to push the envelope of what is
-              conceivable🤓. I'm eager to follow my career wherever it may lead,
-              and I'm constantly ready to seize opportunities that arise😄.
+              conceivable🤓. I&apos;m eager to follow my career wherever it may
+              lead, and I&apos;m constantly ready to seize opportunities that
+              arise😄.
             </p>
           </div>
           <div className="md:w-1/2">
